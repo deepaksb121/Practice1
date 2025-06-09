@@ -7,6 +7,8 @@ public class practice {
 		webautomation();
 		apiautomation();
 		mobileautomation();
+		Appiumautomation();
+		RestAssured();
 
 	}
 	
@@ -23,6 +25,16 @@ public class practice {
 	public static void mobileautomation()
 	{
 		System.out.println("mobile automation");
+	}
+
+	public static void Appiumautomation()
+	{
+		System.out.println("appium automation");
+	}
+	
+	public static void RestAssured()
+	{
+		System.out.println("Rest Assured");
 	}
 
 }
