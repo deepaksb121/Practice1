@@ -36,5 +36,10 @@ public class practice {
 	{
 		System.out.println("Rest Assured");
 	}
+	
+	public static void postman()
+	{
+		System.out.println("postman");
+	}
 
 }
